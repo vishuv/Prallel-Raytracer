@@ -7,7 +7,7 @@ https://bitbucket.org/vishvugg/parallel-raytracer
 
 Dependencies:
 
-png library
-boost libraries
-Open MPI library
+png library,
+boost libraries,
+Open MPI library,
 Zlib library
